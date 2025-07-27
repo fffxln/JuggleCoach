@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Secret configuration file
+# IMPORTANT: Never commit your API key!
+config.json
+
+# Output files
+*.mp4
+*.mov
+
+# macOS junk file
+.DS_Store
